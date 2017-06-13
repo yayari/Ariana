@@ -1,0 +1,51 @@
+p.hello {
+    color:royalblue
+} 
+p.hey { 
+color: deeppink;
+}
+p.hi { 
+    color: mediumpurple;
+}
+
+body{
+  background: lightpink;  
+    
+}
+
+p.hi {
+   font-family: fantasy; 
+    text-align: center;
+}
+p.hello {
+    font-family: monospace;
+    font-size: 20px;
+}
+p.hey { 
+    font-family: sans-serif;
+text-align: right;
+}
+p.about me {
+    text-align: center;
+}
+p.title {
+    text-align: center;
+
+}
+#header {
+    text-align: center;
+    font-size: 75px;
+}
+p.favoritefood {
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
